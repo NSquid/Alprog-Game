@@ -8,6 +8,6 @@ This repository contains both .exe and .c files, the 'highscore.txt' file will n
 <details>
   Shhh! Secret Codes!  <br>
   999 : Start the game without login interface  <br>
-  998 : See the leaderboard, it would display Leaderboard if you have played the game before  <br>
+  998 : See the leaderboard, it would display Leaderboard only if you have played the game before  <br>
   997 : Instantly see the game over, is used for testing only, I'm not joking... it would be useless for you...  <br>
 </details>
