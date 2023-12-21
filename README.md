@@ -1,7 +1,7 @@
 # Alprog-Game
 A 2048 Game for a final project in my Algorithm and Programming Class
 
-The username for the game is : admin123
+The username for the game is : admin123  <br>
 The password for the game is : password123
 
 This repository contains both .exe and .c files, the 'highscore.txt' file will not be included since it will be made by the game itself
